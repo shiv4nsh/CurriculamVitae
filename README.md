@@ -50,7 +50,7 @@ Co-founder of  [Internity Foundation](http://internity.in), a community to bridg
 
 [**Machine Learning With Big Data**](https://www.coursera.org/account/accomplishments/verify/97VGTUWRTB68)
 
-[**Essentials of Couchbase NoSQL Technology_Certificate : Advanced**](http://postimg.org/image/n6a5xxx49/)** **
+[**Essentials of Couchbase NoSQL Technology_Certificate : Advanced**](http://postimg.org/image/n6a5xxx49/)
 
 [**Neo4j Certified Professional**](https://postimg.org/image/vvq9qjmox/)
 
@@ -86,7 +86,7 @@ And many others that can be referenced to github profile : [shiv4nsh](https://gi
 
 **Recent Projects:**
 
-1. **Shipping Calculator**          (*Team Size: 1 person*)
+1. **Shipping Calculator:**                                                                         (*Team Size: 1 person*)
 
  This is one microservice of a very big E-commerce project. This mainly involves optimizing the number of warehouses for a given order and then find the shipping cost based on the location.
  
@@ -94,7 +94,7 @@ And many others that can be referenced to github profile : [shiv4nsh](https://gi
 
 **Technology Stack:** Scala, Kafka-Streams-Scala, Akka-http.   
 
-2. **Chirpanywhere Framework:**						(*Team Size: 4 persons*)
+2. **Chirpanywhere Framework:**						                                                              (*Team Size: 4 persons*)
 
 This project is about making a fog based computing product for the factories that can notify the personals when any machine or component of the machine is in the bad state.
 
@@ -102,7 +102,7 @@ This project is about making a fog based computing product for the factories tha
 
 **Technology Stack:** Scala, Spark , SparkML, Cassandra, Kafka, Influxdb , Akka(FSM, Http, Sources), Grafana , MQTT, Modbus, OPC .   
 
-3. **Elsevier Knowledge Graph:**						(*Team Size: 4 persons*)
+3. **Elsevier Knowledge Graph:**					                                                             	(*Team Size: 4 persons*)
 
 This project is about making a knowledge graph by identifying the clusters in the Corpus and then making a Json-LD representation to make the graph out of it, on which different graph queries can be performed.
 
@@ -110,15 +110,15 @@ This project is about making a knowledge graph by identifying the clusters in th
 
 **Technology Stack:** Scala, Spark , SparkML, Stanford NLP, Cassandra, Akka-http, Json-LD, Gensim, XML Parser.
 
-4.  **HUAWEI PL/SQL Spark engine:** 				           (*Team Size: 8 persons*)
+4.  **HUAWEI PL/SQL Spark engine:** 				                                                             (*Team Size: 8 persons*)
 
 PLSQL spark engine is the spark based engine which will accept the PL/SQL blocks and queries and execute it on spark engine.
 
-**My Role:**Tuning Apache Spark and develop DSL parser.
+**My Role:** Tuning Apache Spark and develop DSL parser.
 
 **Technology Stack:** Apache Spark SQL, Apache Spark-hive, Apache Spark Thrift-server, ANTLR , MYSQL, derby
 
-5.[**TrakInvest:**](http://home.stockfans.net/)  								(*Team Size:4persons*)
+5.[**TrakInvest:**](http://home.stockfans.net/)  							                                              (*Team Size:4persons*)
 
 TrakInvest is a virtual stock trading platform that gathers stock data from different markets and allows user to trade on them. User makes its portfolio and grows it with his/her trading skills.
 
